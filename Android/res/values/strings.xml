@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capsrock</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_collection_demo">CollectionDemoActivity</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="log_work_time">Log Work Time</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_time_entry_fragment">Time Entry</string>
+    <string name="entry_curr_loc">Current Location</string>
+    <string name="dynLocationText">Angle Software</string>
+    <string name="dynLocationStatusText">(on location)</string>
+    <string name="statTimeString">TIME</string>
+    <string name="dynStartButtonWork">Log Work Time</string>
+    <string name="statStop">Stop</string>
+    <string name="dynStartButtonBreak">Log Break Time</string>
+
+</resources>
